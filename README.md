@@ -18,7 +18,6 @@
 ## 📌 Highlights
 - 🏆 **1st Place** — Internal Smart India Hackathon (SIH)  
 - 🎯 Finalist — IIT Mandi *Code for Good* (Top 10/550)  
-- 🤖 Built projects in OCR, Human Activity Recognition, COVID-19 Detection, and Voice-controlled Apps
 - 🚀 Selected in Oxford Machine learning summer school 2025
 
 ---
