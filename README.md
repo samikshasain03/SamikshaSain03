@@ -10,7 +10,7 @@
 ## 🚀 Skills & Tools
 - **Languages:** Python, SQL, HTML, CSS
 - **AI/ML:** PyTorch, TensorFlow, scikit-learn, Transformers
-- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX, data modeling
 - **Specialties:** OCR, NLP, Deep Learning, Statistical Analysis
 
 ---
