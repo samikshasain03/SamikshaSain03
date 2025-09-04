@@ -1,8 +1,9 @@
 # Hi there, I'm Samiksha Sain 👋
 
 🎓 B.Tech CSE Student Graduate - 2025 
-🔬 **Ex-AI Research Intern** at IIT Ropar — worked on OCR, NLP, and Transformer-based models  
-💻 Passionate about **Deep Learning, Generative AI, and real-world NLP applications**
+🔬 **Ex-AI Research Intern** at IIT Ropar — worked on OCR, NLP, and Transformer-based models 
+🚀 Building projects in AI, Python & Analytics
+💻 Exploring Deep Learning & Data Analytics through real-world projects
 
 ---
 
