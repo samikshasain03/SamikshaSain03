@@ -28,4 +28,4 @@
 📧 [samikshasain03@gmail.com](mailto:samikshasain03@gmail.com)
 
 ---
-⭐ _Exploring AI to make technology more human._
+⭐ _Just a girl who wants to transform her ideas into reality_
