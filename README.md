@@ -14,6 +14,11 @@
 - **Specialties:** OCR, NLP, Deep Learning, Statistical Analysis
 
 ---
+## 📖 Publications  
+- *Word-level Hindi OCR Correction Using Confusion-Aware Candidates and RoBERTa Re-ranking*  
+  **Accepted at PReMI 2025 Conference (Springer LNCS Series)**
+- 84th row - [[Accepted paper link](https://premi25.iitd.ac.in/Papers/List%20of%20Accepted%20Papers%20of%20PReMI%202025.pdf)]  
+---
 
 ## 📌 Highlights
 - 🏆 **1st Place** — Internal Smart India Hackathon (SIH)  
