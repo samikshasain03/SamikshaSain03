@@ -1,27 +1,35 @@
 # Hi, I’m Samiksha Sain 👋
 
 🎓 **B.Tech in Computer Science & Engineering (2021–2025)**  
-🔬 **AI Research | OCR | NLP | Machine Learning | Data Analytics**
+🔬 **Junior Research Fellow at IIT Delhi | Machine Learning | NLP | Human-Centered AI**
 
 ---
 
 ## About Me
 
-I am a Computer Science graduate with a strong research background in **Optical Character Recognition (OCR)**, **Natural Language Processing (NLP)**, and **Deep Learning**. My work focuses on building robust AI systems for **low-resource languages**, with an emphasis on real-world applicability and research rigor.
+I am a research-focused machine learning engineer currently working as a Junior Research Fellow at the Indian Institute of Technology Delhi, where I develop machine learning models for real-world calibration and reliability problems. My research interests lie in Natural Language Processing, OCR, and applied machine learning, with a focus on building robust, human-centered, and deployment-ready AI systems.
 
-- 🧠 **Former AI Research Intern at IIT Ropar**, working on OCR pipelines and transformer-based language models  
-- 📄 Research experience spanning CRNN-based OCR, error analysis, and contextual correction models  
-- 🔍 Interested in the intersection of **AI research, human-centered systems, and data-driven decision-making**  
-- 🚀 Motivated by transforming research ideas into scalable, impactful solutions  
+My work combines deep learning, transformer models, and data-centric approaches to improve performance in noisy and real-world environments.
+
+- 🔬 Junior Research Fellow at IIT Delhi, working on machine learning for real-world sensor calibration and error correction
+
+- 🧠 Former AI Research Intern at IIT Ropar, working on OCR pipelines and transformer-based correction models
+
+- 📄 Lead author of a Springer LNCS publication at PReMI 2025
+
+- 🤖 Experience in CRNN, RoBERTa, OCR correction, and applied machine learning pipelines
+
+- 🎯 Interested in NLP, human-centered AI, and robust intelligent systems
+
+- 🚀 Passionate about translating research into real-world impact
 
 ---
 
 ## Research & Publications
 
 **Word-level Hindi OCR Correction Using Confusion-Aware Candidates and RoBERTa Re-ranking**  
-📍 *Accepted at* **Pattern Recognition and Machine Intelligence (PReMI 2025)**  
-📘 *Springer Lecture Notes in Computer Science (LNCS)*
-
+📘 *Springer Lecture Notes in Computer Science (LNCS), PReMI 2025*  
+✍️ *Lead Author
 - Proposed a hybrid OCR correction framework combining confusion-aware candidate generation and transformer-based reranking  
 - Demonstrated significant improvements on real-world Hindi OCR data  
 
